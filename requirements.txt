@@ -1,4 +1,3 @@
-trackmylifts
 flask
 psycopg2
 gunicorn
